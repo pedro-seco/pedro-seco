@@ -4,6 +4,7 @@
   <img src="https://github.com/pedro-seco/pedro-seco/blob/main/meme_estagio.png" />
 </p>
 
+```
 ┌─  Sobre mim   ─────────────────────────────────────────────────┐  
 │ Aluno de Sistemas de Computação na UFF desde 2025              |  
 │ Entusiasta de Desenvolvimento em Java                          |  
@@ -15,3 +16,4 @@
 │ [(De)Codificador Morse](https://github.com/pedro-seco/py-morse) |  
 │ [JoKenPo](https://github.com/pedro-seco/java-jokenpo)           |   
 └─────────────────────────────────────────────────────────────────┘
+```
