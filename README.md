@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem-vindo! Bagunça em construção, não repare nos repositórios!
 
-<!--
-**pedro-seco/pedro-seco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![meme_estagio](meme_estagio.png)  
+┌─  Sobre mim   ─────────────────────────────────────────────────┐  
+| Aluno de Sistemas de Computação na UFF desde 2025              |  
+| Entusiasta de Desenvolvimento em Java                          |  
+| Desenvolvedor de aleatoriedades em Python nos finais de semana |  
+└────────────────────────────────────────────────────────────────┘  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌─  Projetos    ──────────────────────────────────────────────────┐  
+| [Damas CLI](https://github.com/pedro-seco/py-damas)             |  
+| [(De)Codificador Morse](https://github.com/pedro-seco/py-morse) |  
+| [JoKenPo](https://github.com/pedro-seco/java-jokenpo)           |   
+└─────────────────────────────────────────────────────────────────┘
