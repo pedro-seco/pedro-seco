@@ -1,7 +1,7 @@
 ## Bem-vindo! Bagunça em construção, não repare nos repositórios!
 
 <p align="center">
-  <img src="(https://github.com/pedro-seco/pedro-seco/blob/main/meme_estagio.png)" />
+  <img src="https://github.com/pedro-seco/pedro-seco/blob/main/meme_estagio.png" />
 </p>
 
 ┌─  Sobre mim   ─────────────────────────────────────────────────┐  
