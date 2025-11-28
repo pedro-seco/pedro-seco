@@ -1,6 +1,9 @@
 ## Bem-vindo! Bagunça em construção, não repare nos repositórios!
 
-![meme_estagio](meme_estagio.png)  
+<p align="center">
+  <img src="(https://github.com/pedro-seco/pedro-seco/blob/main/meme_estagio.png)" />
+</p>
+
 ┌─  Sobre mim   ─────────────────────────────────────────────────┐  
 │ Aluno de Sistemas de Computação na UFF desde 2025              |  
 │ Entusiasta de Desenvolvimento em Java                          |  
