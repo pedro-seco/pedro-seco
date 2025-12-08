@@ -6,16 +6,29 @@
 
 ```
 > pedro-seco@github:~$ cat readme.txt    
->
+>  
 > ┌─  Sobre mim   ──────────────────────────────────────────────────┐  
 > │ Aluno de Sistemas de Computação na UFF desde 2025               |  
 > │ Entusiasta de Desenvolvimento em Java                           |  
 > │ Desenvolvedor de aleatoriedades em Python nos finais de semana  |  
+> │ Hiperfoco em trocar o dia pela noite programando                |  
 > └─────────────────────────────────────────────────────────────────┘  
->
-> ┌─  Projetos    ──────────────────────────────────────────────────┐  
-> │ Damas CLI                                                       |  
-> │ (De)Codificador Morse                                           |  
-> │ JoKenPo                                                         |   
-> └─────────────────────────────────────────────────────────────────┘
+>  
+> ┌─ Repos de Projetos    ──────────────────────────────────────────┐  
+> │ Damas CLI (Python)                                              |  
+> │ (De)Codificador Morse (Python)                                  |  
+> │ JoKenPo (Java)                                                  |  
+> │ Lista de afazeres-API (Python) WIP                              │  
+> └─────────────────────────────────────────────────────────────────┘  
+>  
+> ┌─  Repos de Estudo/UFF    ───────────────────────────────────────┐  
+> │ Estrutura de Dados                                              |  
+> │ Organização de Computadores                                     |  
+> │ Construção de Página Web                                        │  
+> │ DevDojo-Java                                                    |  
+> └─────────────────────────────────────────────────────────────────┘  
+>  
+> ┌─  Aleatoriedades    ────────────────────────────────────────────┐  
+> │ Script para nome de pastas                                      |    
+> └─────────────────────────────────────────────────────────────────┘  
 ```
