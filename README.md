@@ -15,6 +15,7 @@
 > └─────────────────────────────────────────────────────────────────┘  
 >  
 > ┌─ Repos de Projetos    ──────────────────────────────────────────┐  
+> │ NerdMapas (NextJs + React)                                      |
 > │ Damas CLI (Python)                                              |  
 > │ (De)Codificador Morse (Python)                                  |  
 > │ JoKenPo (Java)                                                  |  
