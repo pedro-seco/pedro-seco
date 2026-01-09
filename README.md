@@ -15,21 +15,21 @@
 > └─────────────────────────────────────────────────────────────────┘  
 >  
 > ┌─ Repos de Projetos    ──────────────────────────────────────────┐  
-> │ NerdMapas (NextJs + React)                                      |
-> │ Damas CLI (Python)                                              |  
-> │ (De)Codificador Morse (Python)                                  |  
-> │ JoKenPo (Java)                                                  |  
-> │ Lista de afazeres-API (Python) WIP                              │  
+> │ Damas CLI                     ->  Python                        |  
+> │ (De)Codificador Morse         ->  Python                        |
+> │ NerdMapas                     ->  NextJs/React                  |  
 > └─────────────────────────────────────────────────────────────────┘  
 >  
-> ┌─  Repos de Estudo/UFF    ───────────────────────────────────────┐  
-> │ Estrutura de Dados                                              |  
-> │ Organização de Computadores                                     |  
-> │ Construção de Página Web                                        │  
-> │ DevDojo-Java                                                    |  
+> ┌─  Repos de Estudo/UFF    ───────────────────────────────────────┐
+> │ Construção de Página Web      ->  HTML/CSS                      │
+> │ DevDojo: Virado no Jiraya     ->  Java                          |  
+> │ Estrutura de Dados            ->  Python/PETEQS                 |
+> │ JoKenPo                       ->  Java                          |  
+> │ Organização de Computadores   ->  Python                        |  
+> │ TodoList                      ->  React                         |
 > └─────────────────────────────────────────────────────────────────┘  
 >  
 > ┌─  Aleatoriedades    ────────────────────────────────────────────┐  
-> │ Script para nome de pastas                                      |    
+> │ Script para nome de pastas    -> PowerShell                     |    
 > └─────────────────────────────────────────────────────────────────┘  
 ```
