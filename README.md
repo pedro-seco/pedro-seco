@@ -25,7 +25,8 @@
 > │ DevDojo: Virado no Jiraya     ->  Java                          |  
 > │ Estrutura de Dados            ->  Python/PETEQS                 |
 > │ JoKenPo                       ->  Java                          |  
-> │ Organização de Computadores   ->  Python                        |  
+> │ Organização de Computadores   ->  Python                        |
+> │ SearchBar                     ->  React                         |
 > │ TodoList                      ->  React                         |
 > └─────────────────────────────────────────────────────────────────┘  
 >  
