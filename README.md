@@ -7,7 +7,8 @@
 ```
 > pedro-seco@github:~$ cat readme.txt    
 >  
-> ┌─  Sobre mim   ──────────────────────────────────────────────────┐  
+> ┌─  Sobre mim   ──────────────────────────────────────────────────┐
+> │ Estagiário @ NerdMonster                                        │
 > │ Aluno de Sistemas de Computação na UFF desde 2025               │  
 > │ Entusiasta de Desenvolvimento em Java                           │  
 > │ Desenvolvedor de aleatoriedades em Python nos finais de semana  │  
