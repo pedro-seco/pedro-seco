@@ -13,6 +13,7 @@
 > │ Entusiasta de Desenvolvimento em Java                           │  
 > │ Desenvolvedor de aleatoriedades em Python nos finais de semana  │  
 > │ Hiperfoco em trocar o dia pela noite programando                │  
+> │ Especializado em não dar push nos meus repositórios pessoais    │  
 > └─────────────────────────────────────────────────────────────────┘  
 >  
 > ┌─  Repos de Projetos   ──────────────────────────────────────────┐  
