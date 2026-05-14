@@ -4,36 +4,40 @@
   <img src="https://github.com/pedro-seco/pedro-seco/blob/main/meme_estagio.png" />
 </p>
 
-```
-> pedro-seco@github:~$ cat readme.txt    
+<pre>
+>  pedro-seco@github:~$
+>  MOTD: "Falar é fácil, quero ver código. Filósofo anônimo, 2025"
 >  
-> ┌─  Sobre mim   ──────────────────────────────────────────────────┐
-> │ Estagiário @ NerdMonster                                        │
-> │ Aluno de Sistemas de Computação na UFF desde 2025               │  
-> │ Entusiasta de Desenvolvimento em Java                           │  
-> │ Desenvolvedor de aleatoriedades em Python nos finais de semana  │  
-> │ Hiperfoco em trocar o dia pela noite programando                │  
-> │ Especializado em não dar push nos meus repositórios pessoais    │  
-> └─────────────────────────────────────────────────────────────────┘  
+>  pedro-seco@github:~$ cat readme.txt
 >  
-> ┌─  Repos de Projetos   ──────────────────────────────────────────┐  
-> │ Damas CLI                                ->  Python             │  
-> │ (De)Codificador Morse                    ->  Python             │
-> │ NerdMapas                                ->  NextJs/React       │  
-> │ Odo Zentarin's Reports of Warfare (WIP)  ->  React              │  
-> └─────────────────────────────────────────────────────────────────┘  
->  
-> ┌─  Repos de Estudo/UFF   ────────────────────────────────────────┐
-> │ Construção de Página Web                 ->  HTML/CSS           │
-> │ DevDojo: Virado no Jiraya                ->  Java               │  
-> │ Estrutura de Dados                       ->  Python/PETEQS      │
-> │ JoKenPo                                  ->  Java               │  
-> │ Organização de Computadores              ->  Python             │
-> │ SearchBar                                ->  React              │
-> │ TodoList                                 ->  React              │
-> └─────────────────────────────────────────────────────────────────┘  
->  
-> ┌─  Aleatoriedades    ────────────────────────────────────────────┐  
-> │ Script para nome de pastas    -> PowerShell                     |    
-> └─────────────────────────────────────────────────────────────────┘  
-```
+>  ┌─ Sobre mim ────────────────────────────────────────────────────┐
+>  │ Estagiário @ NerdMonster                                       │
+>  │ Aluno de Sistemas de Computação na UFF desde 2025              │
+>  │ Entusiasta de Desenvolvimento em Java                          │
+>  │ Desenvolvedor de aleatoriedades em Python nos finais de semana │
+>  │ Hiperfoco em trocar o dia pela noite programando               │
+>  │ Especializado em não dar push nos meus repositórios pessoais   │
+>  | Condenado a programar no papel por Alan Turing                 |
+>  └────────────────────────────────────────────────────────────────┘
+>
+>  ┌─ Repos de Projetos ────────────────────────────────────────────┐
+>  │ <a href="https://github.com/pedro-seco/damas">Damas CLI</a>                                  ->  Python          │
+>  │ <a href="https://github.com/pedro-seco/morse">Morse De/Encoder</a>                           ->  Python          |
+>  │ <a href="https://github.com/pedro-seco/NerdMapasBr">NerdMapas</a>                                  ->  Next/React      │
+>  │ <a href="https://github.com/pedro-seco/tibius">Tibius, O Escriba</a>                          ->  Python          |
+>  │ <a href="https://github.com/pedro-seco/reports-warfare">Odo Zentarin's Reports of Warfare (WIP)</a>    ->  React           │
+>  └────────────────────────────────────────────────────────────────┘
+>
+>  ┌─ Repos de Estudo/UFF ──────────────────────────────────────────┐
+>  │ <a href="https://github.com/pedro-seco/constPagWeb">Construção de Página Web</a>                   ->  HTML/CSS        │
+>  │ <a href="https://github.com/pedro-seco/javaDevDojo">DevDojo: Virado no Jiraya</a>                  ->  Java            │
+>  │ <a href="https://github.com/pedro-seco/jokenpo">JoKenPo</a>                                    ->  Java            │
+>  │ <a href="https://github.com/pedro-seco/orgComputadores">Organização de Computadores</a>                ->  Python          │
+>  │ <a href="https://github.com/pedro-seco/searchBar">SearchBar</a>                                  ->  React           │
+>  │ <a href="https://github.com/pedro-seco/todoList">TodoList</a>                                   ->  React           │
+>  └────────────────────────────────────────────────────────────────┘
+>
+>  ┌─ Aleatoriedades ───────────────────────────────────────────────┐
+>  │ <a href="https://github.com/pedro-seco/nomesPastas">Script para nome de pastas</a>                 ->  PowerShell      │
+>  └────────────────────────────────────────────────────────────────┘
+</pre>
