@@ -26,6 +26,7 @@
 >  │ <a href="https://github.com/pedro-seco/NerdMapasBr">NerdMapas</a>                                  ->  Next/React      │
 >  │ <a href="https://github.com/pedro-seco/tibius">Tibius, O Escriba</a>                          ->  Python          |
 >  │ <a href="https://github.com/pedro-seco/reports-warfare">Odo Zentarin's Reports of Warfare (WIP)</a>    ->  React           │
+>  | <a href="https://github.com/pedro-seco/vampire-5e">A gárgula de Nova York</a>                     ->  HTML/CSS/JS     |
 >  └────────────────────────────────────────────────────────────────┘
 >
 >  ┌─ Repos de Estudo/UFF ──────────────────────────────────────────┐
