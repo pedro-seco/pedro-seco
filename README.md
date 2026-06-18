@@ -19,6 +19,9 @@
 >  │ Especializado em não dar push nos meus repositórios pessoais   │
 >  | Condenado a programar no papel por Alan Turing                 |
 >  └────────────────────────────────────────────────────────────────┘
+>  ┌─ GitHub Pages ─────────────────────────────────────────────────┐
+>  │ <a href="https://pedro-seco.github.io/vampire-5e/">Ficha de Jogador VTM 5e</a>                                        │
+>  └────────────────────────────────────────────────────────────────┘
 >
 >  ┌─ Repos de Projetos ────────────────────────────────────────────┐
 >  │ <a href="https://github.com/pedro-seco/damas">Damas CLI</a>                                  ->  Python          │
